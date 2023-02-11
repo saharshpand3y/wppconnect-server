@@ -9,7 +9,7 @@
   "maxListeners": 15,
   "customUserDataDir": "./userDataDir/",
   "webhook": {
-    "url": "https://WhatsGPT.saharshpandey.repl.co/wp",
+    "url": "https://WhatsGPT.saharshpandey.repl.co/in",
     "autoDownload": true,
     "uploadS3": false,
     "readMessage": true,
